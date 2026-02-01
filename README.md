@@ -2,8 +2,6 @@
 
 A **multi-operand calculator written in C** that evaluates arithmetic expressions using **arrays and switchcase logic**, correctly handling **operator precedence** (`*`, `/` before `+`, `-`) **without using stacks or recursion**.
 
-This project focuses on clarity, correctness, and exam‑ready logic while still being clean enough for a GitHub portfolio.
-
 ---
 
 ## Features
