@@ -13,7 +13,7 @@ This project focuses on clarity, correctness, and exam‑ready logic while still
 * Uses **arrays** for operands and operators
 * Implements logic using **`switch` statements**
 * Includes **input validation** and **division-by-zero checks**
-* No stacks, no recursion — pure array manipulation
+* No stacks, no recursion; pure array manipulation
 
 ---
 
@@ -24,7 +24,7 @@ This project focuses on clarity, correctness, and exam‑ready logic while still
 3. The program first scans for `*` and `/` operators:
 
    * Performs the operation
-   * Stores the result in-place
+   * Stores the result in place
    * Shifts arrays left to remove used operands/operators
 4. After resolving `*` and `/`, the remaining `+` and `-` operations are evaluated left to right.
 
@@ -79,7 +79,7 @@ OrderOps/
 * Array manipulation in C
 * Operator precedence handling
 * Safe input handling
-* Switch–case control flow
+* Switchcase control flow
 * In-place data reduction techniques
 
 ---
@@ -88,7 +88,7 @@ OrderOps/
 
 * Accept full expressions like `3+4*5` as input
 * Add support for parentheses
-* Improve floating-point precision handling
+* Improve floating point precision handling
 * Refactor into modular functions
 
 ---
