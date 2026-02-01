@@ -1,6 +1,6 @@
 # OrderOps
 
-A **multi-operand calculator written in C** that evaluates arithmetic expressions using **arrays and switch–case logic**, correctly handling **operator precedence** (`*`, `/` before `+`, `-`) **without using stacks or recursion**.
+A **multi-operand calculator written in C** that evaluates arithmetic expressions using **arrays and switchcase logic**, correctly handling **operator precedence** (`*`, `/` before `+`, `-`) **without using stacks or recursion**.
 
 This project focuses on clarity, correctness, and exam‑ready logic while still being clean enough for a GitHub portfolio.
 
@@ -12,7 +12,7 @@ This project focuses on clarity, correctness, and exam‑ready logic while still
 * Handles **operator precedence** correctly
 * Uses **arrays** for operands and operators
 * Implements logic using **`switch` statements**
-* Includes **input validation** and **division-by-zero checks**
+* Includes **input validation** and **division by zero checks**
 * No stacks, no recursion; pure array manipulation
 
 ---
@@ -80,7 +80,7 @@ OrderOps/
 * Operator precedence handling
 * Safe input handling
 * Switchcase control flow
-* In-place data reduction techniques
+* Inplace data reduction techniques
 
 ---
 
